@@ -1,6 +1,6 @@
 [! [a] (docs / ytBackgammon-demo-4boards.png)] (https://www.ytani.net/ytbackgammon/movies/ytBackgammon-demo-4boards.mp4)
 
-# ytBackgammon --Network Shared Backgammon Board
+# Backgammon --Network Shared Backgammon Board
 
 http://www.ytani.net:8080/ytbackgammon/
 
